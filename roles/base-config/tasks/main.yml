@@ -14,4 +14,4 @@
     dest: /etc/yum.repos.d/internal.repo
     mode: 0644
 
-- name: install base tools and packages
+#- name: install base tools and packages
